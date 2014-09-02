@@ -7,7 +7,7 @@ This is a collection of Sublime Text shortcut snippets to enable quicker code co
 - [Less/CSS Comments](#less-comments)
 - [Less/CSS/JavaScript Comments](#less-js) (DocBlock-style)
 - [Less Variable Conversions](#less-conversions)
-- [HTML Comments](#html)
+- [HTML Comments](#html-comments)
 
 Other useful downloads:
 
@@ -178,7 +178,8 @@ A DocBlock-style comment, as noted in [Motif's CSS coding style guide](https://g
  */
 ```
 
-## <a name="less-conversion">Less Variable Conversion</a>
+<a name="less-conversion"></a>
+Less Variable Conversion
 
 ### Em Conversion
 
