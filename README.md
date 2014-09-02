@@ -14,7 +14,8 @@ Other useful downloads:
 - [DocBlockr plugin](https://github.com/spadgos/sublime-jsdocs) (helps keep DocBlock-style comments going)
 
 
-## <a name="cheat-sheet">Cheat Sheet</a>
+<a name="cheat-sheet"></a>
+## Cheat Sheet
 
 Snippet                          | Tab Trigger
 ---------------------------------|------------
@@ -36,7 +37,8 @@ HTML Comment Subsection          | `!___`
 HTML Comment Block               | `!--`
 
 
-## <a name="less-comments">Less/CSS Comments</a>
+<a name="less-comments"></a>
+## Less/CSS Comments
 
 ### CSS Comment Section
 
@@ -163,7 +165,8 @@ Put it all together:
 
 
 
-## <a name="less-js">Less/CSS/JavaScript Comments</a>
+<a name="less-js"></a>
+## Less/CSS/JavaScript Comments
 
 **Trigger:** `**`
 
@@ -220,7 +223,8 @@ Same as above, only it doesn't assume the variable will follow the `@[name]-text
 
 
 
-## <a name="html-comments">HTML Comments</a>
+<a name="html-comments"></a>
+## HTML Comments
 
 ### HTML Comment Section
 
